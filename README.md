@@ -10,7 +10,7 @@ I'm a 2nd year BSCS student
 ![](https://github-readme-stats.vercel.app/api?username=sealtux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sealtux&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sealtux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+ 
 
 
 ## 🏆 GitHub Trophies
