@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rdyear BSCS student 
+I'm a 3rd year BSCS student 
   
            
 # 💻 Tech Stack:
